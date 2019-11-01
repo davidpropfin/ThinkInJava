@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ThinkInJava/src/main/java"/>
+	<classpathentry kind="src" path="ThinkInJava/src/test/java"/>
+	<classpathentry kind="output" path="ThinkInJava/target/classes"/>
+</classpath>
